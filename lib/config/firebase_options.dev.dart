@@ -70,7 +70,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '1014685619436',
     projectId: 'test-cicd-facaa',
     storageBucket: 'test-cicd-facaa.appspot.com',
-    iosClientId: '1014685619436-h0uk76en7q7gunqle6g4l0ong4eugqnl.apps.googleusercontent.com',
+    iosClientId:
+        '1014685619436-h0uk76en7q7gunqle6g4l0ong4eugqnl.apps.googleusercontent.com',
     iosBundleId: 'se.quocan.cicd.dev',
   );
 }
