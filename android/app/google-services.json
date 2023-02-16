@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "1014685619436",
+    "project_id": "test-cicd-facaa",
+    "storage_bucket": "test-cicd-facaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014685619436:android:7ef2df14c30a580e32c1c9",
+        "android_client_info": {
+          "package_name": "se.quocan.cicd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014685619436-dta426sfu5228p6p5ghhv1dgq4bjk2rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQywVQIguSWxnUk-KPmMz1HGSLV3aYqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014685619436-dta426sfu5228p6p5ghhv1dgq4bjk2rg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014685619436-3gg3v5o73e046kkncnmrh2eufasho9ph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.quocan.cicd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014685619436:android:89ceb6418cab3a2532c1c9",
+        "android_client_info": {
+          "package_name": "se.quocan.cicd.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014685619436-dta426sfu5228p6p5ghhv1dgq4bjk2rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQywVQIguSWxnUk-KPmMz1HGSLV3aYqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014685619436-dta426sfu5228p6p5ghhv1dgq4bjk2rg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014685619436-3gg3v5o73e046kkncnmrh2eufasho9ph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.quocan.cicd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014685619436:android:9ad110818ae9c0cb32c1c9",
+        "android_client_info": {
+          "package_name": "se.quocan.cicd.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014685619436-dta426sfu5228p6p5ghhv1dgq4bjk2rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQywVQIguSWxnUk-KPmMz1HGSLV3aYqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014685619436-dta426sfu5228p6p5ghhv1dgq4bjk2rg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014685619436-3gg3v5o73e046kkncnmrh2eufasho9ph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.quocan.cicd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014685619436:android:9c1d03956acd9d5c32c1c9",
+        "android_client_info": {
+          "package_name": "se.quocan.cicd_test.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014685619436-dta426sfu5228p6p5ghhv1dgq4bjk2rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQywVQIguSWxnUk-KPmMz1HGSLV3aYqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014685619436-dta426sfu5228p6p5ghhv1dgq4bjk2rg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014685619436-3gg3v5o73e046kkncnmrh2eufasho9ph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.quocan.cicd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
